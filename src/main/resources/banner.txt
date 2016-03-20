@@ -1,0 +1,7 @@
+================================================================
+
+	${application.title} ${application.formatted-version}
+		
+	With Spring Boot ${spring-boot.formatted-version}
+	
+================================================================
